@@ -1,3 +1,3 @@
 # My Portfolio
 
-[https://shreyashc.me](shreyashc.me)
+[shreyashc.me](https://shreyashc.me)
